@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788385214840",
+    "project_id": "somikorn",
+    "storage_bucket": "somikorn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788385214840:android:5c7bdbbdbce18864e4588d",
+        "android_client_info": {
+          "package_name": "com.example.school_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZRTUxnfZVPc5J78SCowpUEhw6Sao9EcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
